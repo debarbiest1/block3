@@ -1,4 +1,6 @@
 #  Blockchain 3 task
+This token simplifies managing transactions, retrieving metadata like block timestamps and participant addresses, and logging events. Beyond standard ERC-20 functionality, it adds enhanced transparency and auditing features, making it an ideal learning tool for blockchain innovation.
+
 ## Structure of the project
 ```
 
